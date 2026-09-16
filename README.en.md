@@ -9,6 +9,7 @@
 [![Download](https://img.shields.io/badge/Download-Powfus_1.2.0-e83fb0?style=for-the-badge)](../../releases/latest)
 [![Version](https://img.shields.io/badge/version-1.2.0-b56cff?style=for-the-badge)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-2f9ee8?style=for-the-badge&logo=windows)](../../releases/latest)
+[![Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-ffb454?style=for-the-badge)](https://buymeacoffee.com/jyanis95c)
 
 [🇫🇷 Français](README.md) · **🇬🇧 English**
 
@@ -33,10 +34,7 @@ single clear window. It replaces the official launcher for multi-accounting, wit
 - 🎨 **4 themes** and a no-nonsense interface;
 - 🌍 **interface in 5 languages**: French, English, Spanish, German, Portuguese.
 
-<!-- Screenshot to add: images/apercu-liste.png (account list).
-     Uncomment the line below once the image is in place.
 <div align="center"><img src="images/apercu-liste.png" alt="Account list" width="820" /><br><em>The account list: launch, organize, monitor.</em></div>
--->
 
 ## 🔒 Your credentials stay with you
 
@@ -87,10 +85,7 @@ The settings panel is organized into sections:
 | **Interface** | Visible columns, sorting, density, confirmations |
 | **Logs & diagnostics** | Log level, logs folder, diagnostic report |
 
-<!-- Screenshot to add: images/apercu-reglages.png (settings panel).
-     Uncomment the line below once the image is in place.
 <div align="center"><img src="images/apercu-reglages.png" alt="Settings" width="820" /><br><em>Clear settings, with safe defaults.</em></div>
--->
 
 ## ❓ FAQ
 

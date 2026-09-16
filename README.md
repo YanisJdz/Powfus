@@ -9,6 +9,7 @@
 [![Télécharger](https://img.shields.io/badge/Télécharger-Powfus_1.2.0-e83fb0?style=for-the-badge)](../../releases/latest)
 [![Version](https://img.shields.io/badge/version-1.2.0-b56cff?style=for-the-badge)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-2f9ee8?style=for-the-badge&logo=windows)](../../releases/latest)
+[![Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-ffb454?style=for-the-badge)](https://buymeacoffee.com/jyanis95c)
 
 **🇫🇷 Français** · [🇬🇧 English](README.en.md)
 
@@ -33,10 +34,7 @@ depuis une seule fenêtre claire. Il remplace le launcher officiel pour le multi
 - 🎨 **4 thèmes** et une interface qui va à l'essentiel ;
 - 🌍 **interface en 5 langues** : français, anglais, espagnol, allemand, portugais.
 
-<!-- Capture à ajouter : images/apercu-liste.png (liste des comptes).
-     Décommente la ligne ci-dessous une fois l'image déposée.
 <div align="center"><img src="images/apercu-liste.png" alt="Liste des comptes" width="820" /><br><em>La liste des comptes : lance, organise, surveille.</em></div>
--->
 
 ## 🔒 Tes identifiants restent chez toi
 
@@ -89,10 +87,7 @@ Le panneau de paramètres est organisé en sections :
 | **Interface** | Colonnes affichées, tri, densité, confirmations |
 | **Logs & diagnostic** | Niveau de journalisation, dossier des logs, rapport de diagnostic |
 
-<!-- Capture à ajouter : images/apercu-reglages.png (panneau de réglages).
-     Décommente la ligne ci-dessous une fois l'image déposée.
 <div align="center"><img src="images/apercu-reglages.png" alt="Réglages" width="820" /><br><em>Des réglages clairs, avec des valeurs par défaut sûres.</em></div>
--->
 
 ## ❓ FAQ
 

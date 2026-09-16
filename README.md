@@ -6,8 +6,8 @@
 
 **Le launcher multi-compte de Dofus, simple et respectueux de tes identifiants.**
 
-[![Télécharger](https://img.shields.io/badge/Télécharger-Powfus_1.2.2-e83fb0?style=for-the-badge)](../../releases/latest)
-[![Version](https://img.shields.io/badge/version-1.2.2-b56cff?style=for-the-badge)](../../releases/latest)
+[![Télécharger](https://img.shields.io/badge/Télécharger-Powfus_1.3.0-e83fb0?style=for-the-badge)](../../releases/latest)
+[![Version](https://img.shields.io/badge/version-1.3.0-b56cff?style=for-the-badge)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-2f9ee8?style=for-the-badge&logo=windows)](../../releases/latest)
 [![Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-ffb454?style=for-the-badge)](https://buymeacoffee.com/jyanis95c)
 
@@ -53,7 +53,7 @@ C'est le point le plus important, alors soyons clairs :
 
 ## 📥 Installation
 
-1. **Télécharge** le fichier `Powfus-1.2.2.msi` depuis la [page des releases](../../releases/latest).
+1. **Télécharge** le fichier `Powfus-1.3.0.msi` depuis la [page des releases](../../releases/latest).
 2. **Double-clique** dessus. Windows peut afficher un écran bleu **« Windows a protégé votre
    ordinateur »** (SmartScreen) : c'est normal pour une application récente et **non signée par un
    gros éditeur**, ce n'est pas un signe de virus. Clique sur **« Informations complémentaires »**

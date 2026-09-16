@@ -6,8 +6,8 @@
 
 **The multi-account Dofus launcher — simple, and respectful of your credentials.**
 
-[![Download](https://img.shields.io/badge/Download-Powfus_1.2.2-e83fb0?style=for-the-badge)](../../releases/latest)
-[![Version](https://img.shields.io/badge/version-1.2.2-b56cff?style=for-the-badge)](../../releases/latest)
+[![Download](https://img.shields.io/badge/Download-Powfus_1.3.0-e83fb0?style=for-the-badge)](../../releases/latest)
+[![Version](https://img.shields.io/badge/version-1.3.0-b56cff?style=for-the-badge)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-2f9ee8?style=for-the-badge&logo=windows)](../../releases/latest)
 [![Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-ffb454?style=for-the-badge)](https://buymeacoffee.com/jyanis95c)
 
@@ -53,7 +53,7 @@ This is the most important point, so let's be clear:
 
 ## 📥 Installation
 
-1. **Download** the `Powfus-1.2.2.msi` file from the [releases page](../../releases/latest).
+1. **Download** the `Powfus-1.3.0.msi` file from the [releases page](../../releases/latest).
 2. **Double-click** it. Windows may show a blue **“Windows protected your PC”** screen (SmartScreen):
    this is normal for a recent app that is **not signed by a large vendor** — it is not a sign of a
    virus. Click **“More info”**, then **“Run anyway”**.
